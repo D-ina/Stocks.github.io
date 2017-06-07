@@ -1,0 +1,154 @@
+
+h2 {
+  color: #40c2f3;
+}
+
+.aa-primary-btn:hover, .aa-primary-btn:focus {
+  color: #40c2f3;
+  border-color: #40c2f3;
+}
+
+.aa-secondary-btn {
+  background-color: #40c2f3;
+}
+
+.aa-view-btn {
+  background-color: #40c2f3;
+}
+.aa-view-btn:hover, .aa-view-btn:focus {
+  color: #40c2f3;
+}
+
+.scrollToTop {
+  background-color: #40c2f3;
+  border: 2px solid #40c2f3;
+}
+
+.scrollToTop:hover,
+.scrollToTop:focus {
+  color: #40c2f3;
+}
+
+.pulse:before, .pulse:after {
+  border: 5px solid #40c2f3;
+}
+
+#aa-menu-area .main-navbar .navbar-header .aa-logo span {
+  color: #40c2f3;
+}
+#aa-menu-area .main-navbar .navbar-nav li a:hover, #aa-menu-area .main-navbar .navbar-nav li a:focus {
+  color: #40c2f3;
+}
+#aa-menu-area .main-navbar .navbar-nav .active a {
+  color: #40c2f3;
+}
+#aa-menu-area .main-navbar .navbar-nav .open a {
+  color: #40c2f3;
+}
+#aa-menu-area .main-navbar .navbar-nav .dropdown-menu li a:hover, #aa-menu-area .main-navbar .navbar-nav .dropdown-menu li a:focus {
+  color: #40c2f3;
+}
+
+#aa-slider .aa-slider-area .aa-top-slider .slick-prev:hover,
+#aa-slider .aa-slider-area .aa-top-slider .slick-next:hover {
+  background-color: #40c2f3;
+}
+#aa-slider .aa-slider-area .aa-top-slider .aa-top-slider-price {
+  color: #40c2f3;
+}
+#aa-slider .aa-slider-area .aa-top-slider .aa-top-slider-btn:hover, #aa-slider .aa-slider-area .aa-top-slider .aa-top-slider-btn:focus {
+  color: #40c2f3;
+}
+
+#aa-advance-search .aa-advance-search-area .aa-advance-search-top .aa-single-advance-search .aa-search-btn {
+  background-color: #40c2f3;
+}
+
+.aa-single-filter-search .noUi-connect {
+  background-color: #40c2f3;
+}
+.aa-single-filter-search .noUi-handle {
+  background-color: #40c2f3;
+}
+
+.aa-title span {
+  background-color: #40c2f3;
+}
+.aa-title span:before {
+  background-color: #40c2f3;
+}
+.aa-title span:after {
+  background-color: #40c2f3;
+}
+
+.aa-properties-item .for-sale {
+  background-color: #40c2f3;
+}
+
+#aa-service .aa-service-area .aa-service-content .aa-single-service .aa-service-icon span {
+  background-color: #40c2f3;
+}
+#aa-service .aa-service-area .aa-service-content .aa-single-service .aa-single-service-content h4 a:hover {
+  color: #40c2f3;
+}
+
+#aa-agents .aa-agents-area .aa-agents-content .aa-agents-slider li .aa-single-agents .aa-agetns-info {
+  background-color: #40c2f3;
+}
+#aa-agents .aa-agents-area .aa-agents-content .aa-agents-slider li .aa-single-agents .aa-agetns-info .aa-agent-social a:hover, #aa-agents .aa-agents-area .aa-agents-content .aa-agents-slider li .aa-single-agents .aa-agetns-info .aa-agent-social a:focus {
+  color: #40c2f3;
+}
+
+#aa-client-testimonial .aa-client-testimonial-area .aa-testimonial-content .aa-testimonial-slider li .aa-testimonial-single .aa-testimonial-info p:before {
+  color: #40c2f3;
+}
+
+.aa-blog-single .aa-date-tag {
+  background-color: #40c2f3;
+}
+.aa-blog-single .aa-blog-single-content h3 a:hover, .aa-blog-single .aa-blog-single-content h3 a:focus {
+  color: #40c2f3;
+}
+.aa-blog-single .aa-blog-single-bottom .aa-blog-author:hover, .aa-blog-single .aa-blog-single-bottom .aa-blog-author:focus {
+  color: #40c2f3;
+}
+.aa-blog-single .aa-blog-single-bottom .aa-blog-comments:hover, .aa-blog-single .aa-blog-single-bottom .aa-blog-comments:focus {
+  color: #40c2f3;
+}
+
+
+
+#aa-signin .aa-signin-area .aa-signin-form .aa-single-submit input[type="submit"] {
+  background-color: #40c2f3;
+  border: 2px solid #40c2f3;
+}
+#aa-signin .aa-signin-area .aa-signin-form .aa-single-submit input[type="submit"]:hover {
+  color: #40c2f3;
+  border-color: #40c2f3;
+}
+
+.navbar-default .navbar-toggle {
+  border-color: #40c2f3;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #40c2f3;
+}
+
+
+#aa-footer h3,
+#aa-footer .copyright span
+{
+	color: #40c2f3
+}
+
+.option-box .gear-check
+{
+	background-color: #40c2f3
+}
+
+.option-box .color-option
+
+{
+	border: 3px solid #40c2f3
+}

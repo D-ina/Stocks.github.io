@@ -1,0 +1,76 @@
+﻿/*--
+Author: Mohamed Taha
+Facebook URL: https://www.facebook.com/mohamed.taha138
+Author URL: http://www.computerwgraphic.blogspot.com
+License: Free
+--*/
+
+@font-face {
+	font-family: 'VIP-Rawy-Bold';
+	src: url('font/VIP-Rawy-Bold.eot');
+	src: local('☺'), url('font/VIP-Rawy-Bold.woff') format('woff'), url('font/VIP-Rawy-Bold.ttf') format('truetype'), url('font/VIP-Rawy-Bold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: "Sukar Bold";
+    src: url('font/VIP-Rawy-Bold.eot');
+    src: url('font/VIP-Rawy-Bold.eot?#iefix') format('embedded-opentype'),
+    url('font/VIP-Rawy-Bold.svg#VIP-Rawy-Bold') format('svg'),
+    url('font/VIP-Rawy-Bold.woff') format('woff'),
+    url('font/VIP-Rawy-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+color : rgb(43,00,AA);
+font-family : trebuchet;
+}
+
+p {
+font-family :VIP-Rawy-Bold;
+}
+
+h1 {
+font-family :VIP-Rawy-Bold;
+}
+
+h2 {
+font-family :VIP-Rawy-Bold;
+}
+
+h3 {
+font-family :VIP-Rawy-Bold;
+}
+
+input[type="text"] {
+font-family :VIP-Rawy-Bold;
+}
+
+input[type="password"] {
+font-family :VIP-Rawy-Bold;
+}
+
+input[type="submit"] {
+font-family :VIP-Rawy-Bold;
+}
+
+.copy-right {
+font-family :VIP-Rawy-Bold;
+}
+
+.copy-right p {
+font-family :VIP-Rawy-Bold;
+}
+
+.copy-right p a {
+font-family :VIP-Rawy-Bold;
+}
+
+.copy-right p a:hover {
+font-family :VIP-Rawy-Bold;
+}
+
+/* End editing Fonts BY Mohamed Taha */
